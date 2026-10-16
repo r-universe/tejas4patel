@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "dragonfarm"]
 	path = dragonfarm
-	url = https://github.com/tejas4patel/dragon-farm
+	url = https://github.com/tejas4patel/dragonfarm
